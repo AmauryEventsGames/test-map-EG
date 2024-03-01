@@ -333,6 +333,23 @@
                  "width":0,
                  "x":542,
                  "y":418
+                }, 
+                {
+                 "height":32,
+                 "id":5,
+                 "name":"from_office",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":192,
+                 "y":544
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -341,7 +358,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":2,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -362,7 +379,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Regon1"
         }, 
         {
          "name":"script",
