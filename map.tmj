@@ -436,7 +436,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mapTest.tmj#from-office"
+                         "value":"mapTest1.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
